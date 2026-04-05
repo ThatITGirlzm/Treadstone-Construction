@@ -1,0 +1,58 @@
+🏗️ Treadstone Construction Website
+
+📌 Project Overview
+This is a responsive website for Treadstone Construction Ltd, a construction company based in Lusaka, Zambia.
+The website showcases services, projects, company statistics, and provides a contact form for client enquiries.
+
+🎯 Purpose
+The goal of this website is to:
+Establish an online presence for the company
+Showcase construction services and past projects
+Generate leads through the contact form
+Improve visibility on search engines (SEO optimized)
+
+🛠️ Technologies Used
+HTML5 – Structure of the website
+CSS3 – Styling and layout
+JavaScript (Vanilla JS) – Smooth scrolling navigation
+Google Fonts (Poppins) – Typography
+Schema.org JSON-LD – SEO structured data
+
+📂 Project Structure
+/project-folder
+│── index.html
+│── style.css
+│── script.js
+│── /images
+│     ├── background1.jpg
+│     ├── project-1.jpg
+│     ├── project-2.jpg
+│     ├── project-22.jpg
+│     ├── project-33.jpg
+
+✨ Features
+📱 Fully responsive design
+🧭 Fixed navigation bar
+🎯 Smooth scrolling between sections
+🏢 Services section with cards
+📊 Company statistics display
+🖼️ Project gallery
+📩 Contact form
+🗺️ Embedded Google Map (Lusaka location)
+🔍 SEO optimized (meta tags + schema markup)
+
+🌐 SEO Optimization
+The site includes:
+Meta title and description
+Keywords targeting Lusaka construction services
+Open Graph tags for social sharing
+Structured data (ConstructionCompany schema)
+
+🚀 How to Run the Project
+link: 
+
+👩🏽‍💻 Author
+Developed by: Lombe Kufika 
+Computer Science Student & Web Developer
+📄 License
+This project is for demonstration and client use.
